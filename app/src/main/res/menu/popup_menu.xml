@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Aqui nós temos os itens de menu suspensos de nossa aplicação -->
+    <item android:id="@+id/idItem01"
+          android:title="Primeiro Item"/>
+
+    <item android:id="@+id/idItem02"
+          android:title="Segundo Item"/>
+
+    <item android:id="@+id/idItem03"
+          android:title="Terceiro Item"/>
+
+    <item android:id="@+id/idItem04"
+          android:title="Quarto Item"/>
+
+    <item android:id="@+id/idItem05"
+          android:title="Quinto Item"/>
+
+    <item android:id="@+id/idItem06"
+          android:title="Sexto Item"/>
+
+    <item android:id="@+id/idItem07"
+          android:title="Sétimo Item"/>
+
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Aqui foram incluídas algumas outras cores para esta aplicação -->
+    <color name="colorBranco">#FFFFFF</color>
+    <color name="colorPreto">#000000</color>
+    <color name="colorCinzaClaro">#D8D8D8</color>
+    <color name="colorCinzaEscuro">#848484</color>
+    <color name="colorVerdeClaro">#81F781</color>
+    <color name="colorVerdeEscuro">#298A08</color>
+    <color name="colorVerdeNegro">#0B610B</color>
+    <color name="colorAzulClaro">#819FF7</color>
+    <color name="colorAzulEscuro">#0040FF</color>
+    <color name="colorAzulNegro">#08088A</color>
+    <color name="colorAmareloClaro">#F3F781</color>
+    <color name="colorAmareloEscuro">#FFFF00</color>
+    <color name="colorAmareloNegro">#868A08</color>
+    <color name="colorBegeClaro">#F5DA81</color>
+    <color name="colorBegeEscuro">#DBA901</color>
+    <color name="colorVioleta1">#DA81F5</color>
+    <color name="colorVioleta2">#CC2EFA</color>
+</resources>
